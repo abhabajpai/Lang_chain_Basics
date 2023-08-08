@@ -1,0 +1,11 @@
+EmployeeID,EmployeeName,Age,Gender,Department,Position,Salary,Email,Phone,Address
+1,John Doe,32,Male,Engineering,Software Engineer,80000,john.doe@example.com,(123) 456-7890,123 Main St
+2,Jane Smith,28,Female,Marketing,Marketing Manager,70000,jane.smith@example.com,(987) 654-3210,456 Park Ave
+3,Bob Johnson,45,Male,Human Resources,HR Manager,85000,bob.johnson@example.com,(555) 123-4567,789 Oak Rd
+4,Alice Williams,35,Female,Finance,Financial Analyst,75000,alice.williams@example.com,(111) 222-3333,101 Elm St
+5,Michael Brown,40,Male,Engineering,Senior Software Engineer,90000,michael.brown@example.com,(444) 555-6666,222 Pine Rd
+6,Emily Davis,29,Female,Marketing,Marketing Specialist,60000,emily.davis@example.com,(777) 888-9999,333 Maple Ave
+7,David Lee,38,Male,Engineering,Engineering Manager,95000,david.lee@example.com,(999) 888-7777,444 Cedar St
+8,Sarah Miller,31,Female,Finance,Financial Manager,85000,sarah.miller@example.com,(444) 222-1111,555 Spruce Rd
+9,Robert Wilson,27,Male,Human Resources,HR Specialist,60000,robert.wilson@example.com,(333) 444-5555,666 Birch Ave
+10,Linda Anderson,42,Female,Marketing,Marketing Coordinator,65000,linda.anderson@example.com,(222) 333-4444,777 Oak St
