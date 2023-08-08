@@ -1,0 +1,12 @@
+{
+    "RAM": "16GB DDR4",
+    "ROM": "512GB PCle NVMe M.2 SSD",
+    "Processor": "12th Gen Intel Core i5-1235U, 10-core, 12 threads, and 12MB L3 cache",
+    "Graphics Card": "Intel Iris Xe graphics",
+    "Display": "14-inch (35.6 cm), FHD, 250-nit, micro-edge display",
+    "Battery Life": "Durable 43Wh battery with HP Fast Charge (up to 50% in 30 mins)",
+    "Operating System": "Windows 11, MSO 2021",
+    "Keyboard": "Backlit keyboard",
+    "Touchpad": "FPR (fingerprint reader)",
+    "Connectivity": "Wi-Fi 6 (2x2), Bluetooth 5.2, 1 x USB Type-C, 2 x USB Type-A, 1 x HDMI 2.1"
+}
