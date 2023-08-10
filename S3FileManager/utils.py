@@ -8,7 +8,6 @@ _= load_dotenv(find_dotenv())
 
  
 
- 
 
 # configure credentials for AWS s3 access
 
